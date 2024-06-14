@@ -1,5 +1,4 @@
-# ⚠️⚠️⚠️⚠️ HELP WANTED
-please email me [ahmad.ilaiwi@gmail.com](mailto:ahmad.ilaiwi@gmail.com) and we will setup some time to speak and see if you can help maintain this library.
+This is a fork of [https://www.npmjs.com/package/react-calendar-timeline/v/0.28.0?activeTab=readme]
 
 # React Calendar Timeline
 
